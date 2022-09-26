@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A command-line project using JS and multiple projects related to it.",
   "main": "index.js",
+  "type":"module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/abcdefg103/JS-Study-App.git"
