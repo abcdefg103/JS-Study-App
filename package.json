@@ -1,21 +1,27 @@
 {
-  "name": "teststudy",
+  "name": "JS-Study-App",
   "version": "1.0.0",
-  "description": "",
+  "description": "A command-line project using JS and multiple projects related to it.",
   "main": "index.js",
-  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abcdefg103/JS-Study-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abcdefg103/JS-Study-App/issues"
+  },
+  "homepage": "https://github.com/abcdefg103/JS-Study-App#readme",
   "dependencies": {
     "chalk": "^5.0.1",
     "chalk-animation": "^2.0.3",
     "figlet": "^1.5.2",
+    "fs": "0.0.1-security",
     "gradient-string": "^2.0.2",
-    "inquirer": "^9.1.1",
-    "nanospinner": "^1.1.0"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+    "inquirer": "^9.1.2",
+    "nanospinner": "^1.1.0",
+    "readline": "^1.3.0"
+  }
 }
